@@ -1,32 +1,32 @@
-# 🎯 QuizStop - Real-Time Quiz Platform
+ QuizStop - Real-Time Quiz Platform
 
 A modern, interactive quiz platform built with Next.js, Supabase, and AI-powered question generation. Create and host live quizzes with real-time updates, confetti celebrations, and instant scoring!
 
-🌐 **Live Demo**: [https://quizstop-mduvn4brm-pcharvisrees-projects.vercel.app](https://quizstop-mduvn4brm-pcharvisrees-projects.vercel.app)
+ **Live Demo**: [https://quizstop-mduvn4brm-pcharvisrees-projects.vercel.app](https://quizstop-mduvn4brm-pcharvisrees-projects.vercel.app)
 
-## ✨ Features
+##  Features
 
-### 🎮 **Core Quiz Features**
+###  **Core Quiz Features**
 - **AI-Powered Question Generation** - Create quizzes on any topic using Gemini AI
 - **Real-Time Multiplayer** - Host live quizzes with multiple participants
 - **Auto-Timer System** - 30-second timer per question with automatic progression
 - **Live Leaderboard** - Real-time score tracking and rankings
 - **Session Management** - Easy join codes and participant management
 
-### 🎊 **Engagement Features**
+###  **Engagement Features**
 - **Confetti Celebrations** - Visual feedback for correct answers and winners
 - **Sound Effects** - Audio feedback for join events and answer submissions
 - **Question Count Selection** - Choose 5, 10, 15, or 20 questions per quiz
 - **Difficulty Levels** - Easy, Medium, Hard, and Expert difficulty options
 - **Real-Time Updates** - No page refresh needed - everything updates live!
 
-### 🎨 **User Experience**
+###  **User Experience**
 - **Modern UI** - Beautiful, responsive design with dark/light themes
 - **Mobile Friendly** - Works perfectly on all devices
 - **Instant Feedback** - Immediate scoring and progress updates
 - **Connection Status** - Visual indicators for real-time connection health
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Node.js 18+ 
@@ -67,7 +67,7 @@ A modern, interactive quiz platform built with Next.js, Supabase, and AI-powered
 6. **Open your browser**
    Navigate to [http://localhost:3000](http://localhost:3000)
 
-## 🏗️ Tech Stack
+##  Tech Stack
 
 - **Frontend**: Next.js 14, React, TypeScript
 - **Styling**: Tailwind CSS, shadcn/ui components
@@ -78,7 +78,7 @@ A modern, interactive quiz platform built with Next.js, Supabase, and AI-powered
 - **Audio**: Web Audio API
 - **Confetti**: canvas-confetti
 
-## 📱 How to Use
+##  How to Use
 
 ### For Quiz Hosts
 
@@ -107,14 +107,14 @@ A modern, interactive quiz platform built with Next.js, Supabase, and AI-powered
    - See your score update in real-time
    - Compete on the live leaderboard!
 
-## 🎯 Scoring System
+##  Scoring System
 
 - **Simple & Fair**: 1 point per correct answer
 - **Real-Time Updates**: Scores update instantly
 - **Live Rankings**: See your position change in real-time
 - **Final Results**: Complete leaderboard with percentages
 
-## 🎊 Celebrations & Feedback
+##  Celebrations & Feedback
 
 - **Correct Answer**: Green confetti burst + success sound
 - **Wrong Answer**: Red sound feedback
@@ -122,7 +122,7 @@ A modern, interactive quiz platform built with Next.js, Supabase, and AI-powered
 - **Quiz Winner**: Big confetti celebration
 - **Quiz Complete**: Special completion confetti
 
-## 🔧 API Endpoints
+##  API Endpoints
 
 - `POST /api/generate-quiz` - Generate quiz questions
 - `POST /api/sessions` - Create new quiz session
@@ -130,7 +130,7 @@ A modern, interactive quiz platform built with Next.js, Supabase, and AI-powered
 - `POST /api/sessions/join` - Join a session
 - `PUT /api/sessions/[sessionId]/participants/[participantId]` - Submit answer
 
-## 🗄️ Database Schema
+##  Database Schema
 
 ### Tables
 - `quiz_sessions` - Stores quiz sessions and questions
@@ -142,7 +142,7 @@ A modern, interactive quiz platform built with Next.js, Supabase, and AI-powered
 - Instant score updates
 - Live leaderboard changes
 
-## 🚀 Deployment
+##  Deployment
 
 ### Vercel (Recommended)
 
@@ -160,7 +160,7 @@ npm run build
 npx vercel --prod
 ```
 
-## 🎨 Customization
+##  Customization
 
 ### Themes
 - Built-in dark/light theme support
@@ -177,7 +177,7 @@ npx vercel --prod
 - Customizable colors and patterns
 - Performance optimized
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create a feature branch
@@ -185,11 +185,11 @@ npx vercel --prod
 4. Test thoroughly
 5. Submit a pull request
 
-## 📝 License
+##  License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - **Supabase** for the amazing real-time database
 - **Google Gemini** for AI-powered question generation
@@ -197,7 +197,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **shadcn/ui** for beautiful components
 - **Tailwind CSS** for utility-first styling
 
-## 📞 Support
+##  Support
 
 If you encounter any issues or have questions:
 
@@ -207,6 +207,7 @@ If you encounter any issues or have questions:
 
 ---
 
-**Made with ❤️ for quiz enthusiasts everywhere!** 🎯
+**Made with ❤️ for quiz enthusiasts everywhere!** 
 
 *Happy Quizzing!* 🎉
+
