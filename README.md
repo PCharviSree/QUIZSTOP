@@ -2,7 +2,8 @@
 
 A modern, interactive quiz platform built with Next.js, Supabase, and AI-powered question generation. Create and host live quizzes with real-time updates, confetti celebrations, and instant scoring!
 
- **Live Demo**: [https://quizstop-mduvn4brm-pcharvisrees-projects.vercel.app](https://quizstop-mduvn4brm-pcharvisrees-projects.vercel.app)
+ **Live Demo**:
+quizstop.vercel.app
 
 ##  Features
 
@@ -210,4 +211,5 @@ If you encounter any issues or have questions:
 **Made with ❤️ for quiz enthusiasts everywhere!** 
 
 *Happy Quizzing!* 🎉
+
 
